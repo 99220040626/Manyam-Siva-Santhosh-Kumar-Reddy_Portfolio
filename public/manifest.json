@@ -1,0 +1,16 @@
+{
+  "name": "Manyam Siva Santhosh Kumar Reddy — AI OS Portfolio",
+  "short_name": "SANTHOSH.OS",
+  "description": "Next-generation JARVIS / F.R.I.D.A.Y. AI Operating System Portfolio of Manyam Siva Santhosh Kumar Reddy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05060A",
+  "theme_color": "#00F5FF",
+  "icons": [
+    {
+      "src": "/profile.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
